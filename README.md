@@ -109,7 +109,7 @@ Review the [Contributing Guidelines](CONTRIBUTING.md).
         * [AP - availability and partition tolerance](#ap---availability-and-partition-tolerance)
 * [Consistency patterns](#consistency-patterns)
     * [Weak consistency](#weak-consistency)
-    * [Eventual consistency](#eventual-consistency)
+    * [Eventual consistency](#eventual-consistency) 
     * [Strong consistency](#strong-consistency)
 * [Availability patterns](#availability-patterns)
     * [Fail-over](#fail-over)
